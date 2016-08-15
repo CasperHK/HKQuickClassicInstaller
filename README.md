@@ -7,7 +7,7 @@ Ubuntu Linux 速成輸入法安裝工具
 
 ## 下載點
 
- * 
+ * [scripts文件夾](https://github.com/CasperHK/HKQuickClassicInstaller/tree/master/scripts)
 
 ## 使用方法
 
