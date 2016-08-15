@@ -12,3 +12,4 @@ im-config -n fcitx
 sudo apt-get install fcitx-table-quick-classic
 
 # Configuring fcitx
+# currently not available
